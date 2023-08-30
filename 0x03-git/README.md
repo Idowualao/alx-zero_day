@@ -1,1 +1,1 @@
-echo My second
+this is a file
